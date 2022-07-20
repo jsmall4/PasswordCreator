@@ -12,6 +12,20 @@
 
 # Screenshot:
 
-# Live URL
+"https://user-images.githubusercontent.com/64646369/179993287-766105a8-472c-414b-ba8e-cdfb1192be8e.png"
 
-# GitHub Repo:
+"https://user-images.githubusercontent.com/64646369/179993295-cf6d2ba4-57a5-4367-b115-bbab5acbac52.png"
+
+"https://user-images.githubusercontent.com/64646369/179993301-f4129fb6-1a32-43f2-b88a-c3903bd02e9f.png"
+
+"https://user-images.githubusercontent.com/64646369/179993304-e302f336-e776-4c8b-972a-60118183995e.png"
+
+"https://user-images.githubusercontent.com/64646369/179993306-8bfb232a-2327-4f54-b49c-9f7f95ae2139.png"
+
+"https://user-images.githubusercontent.com/64646369/179993307-feb54369-0238-4529-980f-ff581a9d3097.png"
+
+"https://user-images.githubusercontent.com/64646369/179993310-f26b80e8-0d56-48f8-92b6-e53267688b8b.png"
+
+# Live URL: https://jsmall4.github.io/PasswordCreator/
+
+# GitHub Repo: https://github.com/jsmall4/PasswordCreator
